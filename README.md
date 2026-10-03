@@ -123,8 +123,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ToolsMonk](https://toolsmonk.com) `https://toolsmonk.com/api/mcp`
   [![ToolsMonk MCP connector](https://glama.ai/mcp/connectors/com.toolsmonk/catalog/badges/score.svg)](https://glama.ai/mcp/connectors/com.toolsmonk/catalog)
   🔓 - Find the right one of 255 free browser-based PDF, image, text and SEO tools by describing the task.
-- [- [uk-legislation-changes](https://uk-legal-changes.pages.dev/mcp) 🇬🇧 — Point-in-time amendment history for UK law: which provisions changed, when, and by how much. Keyless, no auth. 506 provisions across employment, equality, consumer, data protection and company law.
-Zapier](https://zapier.com) `https://mcp.zapier.com/api/mcp/mcp`
+- [Zapier](https://zapier.com) `https://mcp.zapier.com/api/mcp/mcp`
   [![Zapier MCP connector](https://glama.ai/mcp/connectors/com.zapier.mcp/zapier/badges/score.svg)](https://glama.ai/mcp/connectors/com.zapier.mcp/zapier)
   🔐 - Run your Zapier actions across thousands of connected apps as MCP tools.
 
@@ -419,6 +418,10 @@ Zapier](https://zapier.com) `https://mcp.zapier.com/api/mcp/mcp`
 - [LibreJustice](https://librejustice.fr) `https://librejustice.fr/mcp`
   [![LibreJustice MCP connector](https://glama.ai/mcp/connectors/fr.librejustice/librejustice/badges/score.svg)](https://glama.ai/mcp/connectors/fr.librejustice/librejustice)
   🔐 - French and European case law and legislation, searched in plain language and linked article by article.
+
+- [UK Legislation Changes](https://uk-legal-changes.pages.dev) `https://uk-legal-changes.pages.dev/mcp`
+  [![UK Legislation Changes MCP connector](https://glama.ai/mcp/connectors/io.github.busybusybussiness/uk-legislation-changes/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.busybusybussiness/uk-legislation-changes)
+  🔓 - Point-in-time amendment history for 506 UK legislation provisions across employment, equality, consumer and company law.
 
 ### 🎯 <a name="marketing"></a>Marketing
 
